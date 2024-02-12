@@ -1,4 +1,3 @@
-import React from 'react'
 import Crew1 from '../assets/Frame 3254-1.png'
 import Crew2 from '../assets/Frame 3254-2.png'
 import Crew3 from '../assets/Frame 3254-3.png';
